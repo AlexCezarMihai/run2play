@@ -15,6 +15,27 @@
 		BC89B04A1BEEACFB00935C80 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0491BEEACFB00935C80 /* Images.xcassets */; };
 		BC89B04D1BEEACFB00935C80 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC89B04B1BEEACFB00935C80 /* LaunchScreen.xib */; };
 		BC89B0591BEEACFB00935C80 /* run2playTests.m in Sources */ = {isa = PBXBuildFile; fileRef = BC89B0581BEEACFB00935C80 /* run2playTests.m */; };
+		BC89B0661BEEAEB500935C80 /* HealthKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BC89B0651BEEAEB500935C80 /* HealthKit.framework */; };
+		BC89B0711BEEE16400935C80 /* 001.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0671BEEE16400935C80 /* 001.png */; };
+		BC89B0721BEEE16400935C80 /* 002.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0681BEEE16400935C80 /* 002.png */; };
+		BC89B0731BEEE16400935C80 /* 003.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0691BEEE16400935C80 /* 003.png */; };
+		BC89B0741BEEE16400935C80 /* 004.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B06A1BEEE16400935C80 /* 004.png */; };
+		BC89B0751BEEE16400935C80 /* 005.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B06B1BEEE16400935C80 /* 005.png */; };
+		BC89B0761BEEE16400935C80 /* 006.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B06C1BEEE16400935C80 /* 006.png */; };
+		BC89B0771BEEE16400935C80 /* 007.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B06D1BEEE16400935C80 /* 007.png */; };
+		BC89B0781BEEE16400935C80 /* 008.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B06E1BEEE16400935C80 /* 008.png */; };
+		BC89B0791BEEE16400935C80 /* 009.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B06F1BEEE16400935C80 /* 009.png */; };
+		BC89B07A1BEEE16400935C80 /* 010.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0701BEEE16400935C80 /* 010.png */; };
+		BC89B07C1BEEF1D400935C80 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BC89B07B1BEEF1D400935C80 /* 1.jpg */; };
+		BC89B07E1BEEF25E00935C80 /* coin.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B07D1BEEF25E00935C80 /* coin.png */; };
+		BC89B0801BEEF5D500935C80 /* Run2Play_Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B07F1BEEF5D500935C80 /* Run2Play_Icon.png */; };
+		BC89B0821BEEF82C00935C80 /* Splash_screen.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0811BEEF82C00935C80 /* Splash_screen.png */; };
+		BC89B0841BEF879400935C80 /* Medal-25.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0831BEF879300935C80 /* Medal-25.png */; };
+		BC89B0861BEF879900935C80 /* Right Footprint-25.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0851BEF879900935C80 /* Right Footprint-25.png */; };
+		BC89B0881BEF8C2900935C80 /* Splash_screen@1.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0871BEF8C2900935C80 /* Splash_screen@1.png */; };
+		BC89B08A1BEF8EC200935C80 /* LOL.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B0891BEF8EC200935C80 /* LOL.png */; };
+		BC89B08C1BEFAD1600935C80 /* Joke.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B08B1BEFAD1600935C80 /* Joke.png */; };
+		BC89B08E1BEFAE0900935C80 /* Joke-1.png in Resources */ = {isa = PBXBuildFile; fileRef = BC89B08D1BEFAE0900935C80 /* Joke-1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +64,28 @@
 		BC89B0521BEEACFB00935C80 /* run2playTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = run2playTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC89B0571BEEACFB00935C80 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BC89B0581BEEACFB00935C80 /* run2playTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = run2playTests.m; sourceTree = "<group>"; };
+		BC89B0641BEEAD3C00935C80 /* run2play.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = run2play.entitlements; sourceTree = "<group>"; };
+		BC89B0651BEEAEB500935C80 /* HealthKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = HealthKit.framework; path = System/Library/Frameworks/HealthKit.framework; sourceTree = SDKROOT; };
+		BC89B0671BEEE16400935C80 /* 001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 001.png; sourceTree = "<group>"; };
+		BC89B0681BEEE16400935C80 /* 002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 002.png; sourceTree = "<group>"; };
+		BC89B0691BEEE16400935C80 /* 003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 003.png; sourceTree = "<group>"; };
+		BC89B06A1BEEE16400935C80 /* 004.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 004.png; sourceTree = "<group>"; };
+		BC89B06B1BEEE16400935C80 /* 005.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 005.png; sourceTree = "<group>"; };
+		BC89B06C1BEEE16400935C80 /* 006.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 006.png; sourceTree = "<group>"; };
+		BC89B06D1BEEE16400935C80 /* 007.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 007.png; sourceTree = "<group>"; };
+		BC89B06E1BEEE16400935C80 /* 008.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 008.png; sourceTree = "<group>"; };
+		BC89B06F1BEEE16400935C80 /* 009.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 009.png; sourceTree = "<group>"; };
+		BC89B0701BEEE16400935C80 /* 010.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 010.png; sourceTree = "<group>"; };
+		BC89B07B1BEEF1D400935C80 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		BC89B07D1BEEF25E00935C80 /* coin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coin.png; sourceTree = "<group>"; };
+		BC89B07F1BEEF5D500935C80 /* Run2Play_Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Run2Play_Icon.png; sourceTree = "<group>"; };
+		BC89B0811BEEF82C00935C80 /* Splash_screen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Splash_screen.png; sourceTree = "<group>"; };
+		BC89B0831BEF879300935C80 /* Medal-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Medal-25.png"; sourceTree = "<group>"; };
+		BC89B0851BEF879900935C80 /* Right Footprint-25.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Right Footprint-25.png"; sourceTree = "<group>"; };
+		BC89B0871BEF8C2900935C80 /* Splash_screen@1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Splash_screen@1.png"; sourceTree = "<group>"; };
+		BC89B0891BEF8EC200935C80 /* LOL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOL.png; sourceTree = "<group>"; };
+		BC89B08B1BEFAD1600935C80 /* Joke.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Joke.png; sourceTree = "<group>"; };
+		BC89B08D1BEFAE0900935C80 /* Joke-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Joke-1.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +93,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC89B0661BEEAEB500935C80 /* HealthKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -66,6 +110,7 @@
 		BC89B02D1BEEACFB00935C80 = {
 			isa = PBXGroup;
 			children = (
+				BC89B0651BEEAEB500935C80 /* HealthKit.framework */,
 				BC89B0381BEEACFB00935C80 /* run2play */,
 				BC89B0551BEEACFB00935C80 /* run2playTests */,
 				BC89B0371BEEACFB00935C80 /* Products */,
@@ -84,6 +129,7 @@
 		BC89B0381BEEACFB00935C80 /* run2play */ = {
 			isa = PBXGroup;
 			children = (
+				BC89B0641BEEAD3C00935C80 /* run2play.entitlements */,
 				BC89B03D1BEEACFB00935C80 /* AppDelegate.h */,
 				BC89B03E1BEEACFB00935C80 /* AppDelegate.m */,
 				BC89B0401BEEACFB00935C80 /* FirstViewController.h */,
@@ -101,6 +147,26 @@
 		BC89B0391BEEACFB00935C80 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BC89B08D1BEFAE0900935C80 /* Joke-1.png */,
+				BC89B08B1BEFAD1600935C80 /* Joke.png */,
+				BC89B0871BEF8C2900935C80 /* Splash_screen@1.png */,
+				BC89B0851BEF879900935C80 /* Right Footprint-25.png */,
+				BC89B0831BEF879300935C80 /* Medal-25.png */,
+				BC89B0811BEEF82C00935C80 /* Splash_screen.png */,
+				BC89B07B1BEEF1D400935C80 /* 1.jpg */,
+				BC89B07F1BEEF5D500935C80 /* Run2Play_Icon.png */,
+				BC89B07D1BEEF25E00935C80 /* coin.png */,
+				BC89B0891BEF8EC200935C80 /* LOL.png */,
+				BC89B0671BEEE16400935C80 /* 001.png */,
+				BC89B0681BEEE16400935C80 /* 002.png */,
+				BC89B0691BEEE16400935C80 /* 003.png */,
+				BC89B06A1BEEE16400935C80 /* 004.png */,
+				BC89B06B1BEEE16400935C80 /* 005.png */,
+				BC89B06C1BEEE16400935C80 /* 006.png */,
+				BC89B06D1BEEE16400935C80 /* 007.png */,
+				BC89B06E1BEEE16400935C80 /* 008.png */,
+				BC89B06F1BEEE16400935C80 /* 009.png */,
+				BC89B0701BEEE16400935C80 /* 010.png */,
 				BC89B03A1BEEACFB00935C80 /* Info.plist */,
 				BC89B03B1BEEACFB00935C80 /* main.m */,
 			);
@@ -173,6 +239,12 @@
 				TargetAttributes = {
 					BC89B0351BEEACFB00935C80 = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = 9FQ5M2Y3L2;
+						SystemCapabilities = {
+							com.apple.HealthKit = {
+								enabled = 1;
+							};
+						};
 					};
 					BC89B0511BEEACFB00935C80 = {
 						CreatedOnToolsVersion = 6.4;
@@ -204,9 +276,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC89B0861BEF879900935C80 /* Right Footprint-25.png in Resources */,
+				BC89B0741BEEE16400935C80 /* 004.png in Resources */,
+				BC89B08E1BEFAE0900935C80 /* Joke-1.png in Resources */,
+				BC89B0821BEEF82C00935C80 /* Splash_screen.png in Resources */,
+				BC89B08A1BEF8EC200935C80 /* LOL.png in Resources */,
 				BC89B0481BEEACFB00935C80 /* Main.storyboard in Resources */,
+				BC89B0781BEEE16400935C80 /* 008.png in Resources */,
+				BC89B0791BEEE16400935C80 /* 009.png in Resources */,
 				BC89B04D1BEEACFB00935C80 /* LaunchScreen.xib in Resources */,
+				BC89B08C1BEFAD1600935C80 /* Joke.png in Resources */,
+				BC89B07A1BEEE16400935C80 /* 010.png in Resources */,
+				BC89B0771BEEE16400935C80 /* 007.png in Resources */,
 				BC89B04A1BEEACFB00935C80 /* Images.xcassets in Resources */,
+				BC89B0731BEEE16400935C80 /* 003.png in Resources */,
+				BC89B0801BEEF5D500935C80 /* Run2Play_Icon.png in Resources */,
+				BC89B0721BEEE16400935C80 /* 002.png in Resources */,
+				BC89B0881BEF8C2900935C80 /* Splash_screen@1.png in Resources */,
+				BC89B0841BEF879400935C80 /* Medal-25.png in Resources */,
+				BC89B0761BEEE16400935C80 /* 006.png in Resources */,
+				BC89B07E1BEEF25E00935C80 /* coin.png in Resources */,
+				BC89B0711BEEE16400935C80 /* 001.png in Resources */,
+				BC89B0751BEEE16400935C80 /* 005.png in Resources */,
+				BC89B07C1BEEF1D400935C80 /* 1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -355,9 +447,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = run2play/run2play.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = run2play/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -365,9 +463,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_ENTITLEMENTS = run2play/run2play.entitlements;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = run2play/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -424,6 +528,7 @@
 				BC89B05E1BEEACFB00935C80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BC89B05F1BEEACFB00935C80 /* Build configuration list for PBXNativeTarget "run2playTests" */ = {
 			isa = XCConfigurationList;
@@ -432,6 +537,7 @@
 				BC89B0611BEEACFB00935C80 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

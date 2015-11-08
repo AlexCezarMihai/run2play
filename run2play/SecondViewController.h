@@ -8,8 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
-
-
+@interface SecondViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>
+@property (nonatomic) NSArray * list;
 @end
 

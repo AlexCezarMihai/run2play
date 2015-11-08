@@ -17,6 +17,19 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    UITabBarController *tabBarController = (UITabBarController *)self.window.rootViewController;
+    UITabBar *tabBar = tabBarController.tabBar;
+    UITabBarItem *tabBarItem1 = [tabBar.items objectAtIndex:0];
+    UITabBarItem *tabBarItem2 = [tabBar.items objectAtIndex:1];
+    
+    tabBarItem1.selectedImage = [[UIImage imageNamed:@"Right Footprint-25"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal ];
+    tabBarItem1.image = [[UIImage imageNamed:@"Right Footprint-25"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal ];
+//    tabBarItem1.title = @"xxx";
+    
+    tabBarItem2.selectedImage = [[UIImage imageNamed:@"Medal-25"]imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal ];
+    tabBarItem2.image = [[UIImage imageNamed:@"Medal-25"]imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal ];
+//    tabBarItem2.title = @"xxxx";
+    
     return YES;
 }
 
